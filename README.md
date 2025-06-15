@@ -35,8 +35,6 @@ Mimics the YouTube interface with a video grid, sidebar navigation, search UI, a
 
 ### 💻 Desktop View  
 <img src="screenshots/Screenshot-desktop.png" width="400px" />
-![Desktop](screenshots/Screenshot-desktop.png)
 
 ### 📱 Mobile View  
 <img src="screenshots/Screenshot-responsive.png" width="250px" />
-![Mobile](screenshots/Screenshot-responsive.png)
