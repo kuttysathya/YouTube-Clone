@@ -24,7 +24,7 @@ Mimics the YouTube interface with a video grid, sidebar navigation, search UI, a
 
 ## 💻 Technologies Used
 
-- **React.js** (create-react-app or Vite)  
+- **React.js** (Vite)  
 - **JavaScript (ES6+)**  
 - **CSS3** (Flexbox / Grid / Responsive design)  
 - **Netlify** for deployment
