@@ -13,8 +13,7 @@ Mimics the YouTube interface with a video grid, sidebar navigation, search UI, a
 
 ## 🚀 Features
 
-- 🎞️ Video thumbnail grid layout  
-- 🔍 Search bar UI (db interaction can be added)  
+- 🎞️ Video thumbnail grid layout    
 - 📱 Fully responsive (works on desktop & mobile)  
 - 🧭 Sidebar navigation with categories  
 - 🎥 Clickable static video cards (video page simulated)  
